@@ -1,2 +1,2 @@
 # Training
-Repor for testing and learning new stuff
+Repo for testing and learning new stuff
